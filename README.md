@@ -7,8 +7,6 @@
 
 - 👩‍💻 All of my projects are available at [shelleyclem.github.io](shelleyclem.github.io)
 
-- 📫 How to reach me **shelley.diane.clem@gmail.com**
-
 - 🐮 Fun fact **I grew up on a dairy farm!**
 
 <h3 align="left">Connect with me:</h3>
